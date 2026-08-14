@@ -1,33 +1,55 @@
-# Hola 👋 Soy Tomás<br><br>
-Estudiante avanzado de Ingeniería Informática en la UBA (FIUBA), me interesa el desarrollo full-stack, participar en proyectos grupales, resolver problemas y aprender en el proceso. Tengo interés en la ciencia de datos, los modelos de machine learning y todo lo relacionado a la inteligencia artificial.
+<h1 align="center">Hola 👋 Soy Tomás Hevia</h1>
+<h3 align="center">Estudiante de Ingeniería Informática | Desarrollador Full-Stack & Data Science</h3>
 
-🔭 Actualmente busco mi primera posición junior o pasantía en desarrollo de software / data.
-📫 Contacto: tomashevia27@gmail.com · [LinkedIn](https://www.linkedin.com/in/tom%C3%A1s-hevia-990356277/)
+<p align="center">
+  <a href="mailto:tomashevia27@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-tomashevia27%40gmail.com-blue?style=flat-square&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/tomás-hevia-990356277/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Perfil-blue?style=flat-square&logo=linkedin"></a>
+</p>
 
-## 🚀 Proyectos destacados
+---
 
-### 🏟️ PartidoYa — Reservas y Torneos deportivos
-App full-stack en equipo de 6 personas para conectar dueños de canchas con jugadores. Backend en FastAPI + PostgreSQL, frontend en TypeScript/Node, desplegado en Render/Vercel.
-🔗 [Repo](https://github.com/tomashevia27/TP_GDSI_GRUPO_01) · 🔗 [Demo en vivo](https://partidoya.vercel.app/)
+### 👨‍💻 Sobre mí
+* 🎓 Estudiante avanzado de **Ingeniería Informática** en la UBA (FIUBA), con fecha estimada de graduación en Diciembre de 2027.
+* 💡 Apasionado por el desarrollo full-stack, la resolución de problemas y el trabajo en equipo bajo metodologías ágiles.
+* 📊 Gran interés en Ciencia de Datos, Machine Learning y el ecosistema de la Inteligencia Artificial.
+* 🎯 **Búsqueda activa:** Buscando mi primera posición junior o pasantía en desarrollo de software / data.
 
-### 📊 Análisis y Modelado Predictivo (ML)
-Proyectos de Ciencia de Datos de ciclo completo: EDA, preprocesamiento, feature engineering y modelado.
-**TP1 — Clasificación, Regresión y Clustering**
-Limpieza, imputación de datos (MICE/Hot Deck), feature engineering y entrenamiento de modelos con Scikit-Learn sobre datasets reales (clima Australia, Airbnb Madrid, Spotify), incluyendo PCA y evaluación con F1/ROC-AUC/R².
-🔗 [Repo](https://github.com/tomashevia27/cdd-tp1)
-**TP2 — Análisis de Sentimiento de Críticas de Cine (NLP)**
-Competencia de Kaggle: clasificación binaria de críticas en español con Naïve Bayes, Random Forest, XGBoost, Red Neuronal (TensorFlow/Keras) y un ensamble CNN-BiLSTM + FastText con bagging (F1 0.868 · Kaggle 0.783).
-🔗 [Repo](https://github.com/tomashevia27/cdd-tp2)
+---
 
-### 🎮 DuckGame Recreation - Juego Multijugador (C++)
-Arquitectura cliente-servidor con servidor multihilo y menú interactivo en Qt. Foco en sistemas concurrentes y patrones de diseño.
-🔗 [Repo](https://github.com/tomashevia27/duckgame-recreation) · 🔗 [Web](https://duckgame-recreation.vercel.app/)
+### 🚀 Proyectos Destacados
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Clojure](https://img.shields.io/badge/Clojure-%23Clojure.svg?style=for-the-badge&logo=Clojure&logoColor=Clojure) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=tomashevia27&theme=rose_pine&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=tomashevia27&theme=rose_pine&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=tomashevia27&theme=rose_pine&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+#### 🏟️ [PartidoYa — Reservas y Torneos deportivos](https://partidoya.vercel.app/)
+App full-stack desarrollada en equipo para conectar dueños de canchas con jugadores. 
+* **Backend:** FastAPI, PostgreSQL | **Frontend:** TypeScript, Node.
+* 🔗 [Repositorio](https://github.com/tomashevia27/TP_GDSI_GRUPO_01) | 🔗 [Demo en vivo](https://partidoya.vercel.app/)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+#### 📊 Análisis y Modelado Predictivo (Machine Learning)
+Proyectos de Ciencia de Datos de ciclo completo (EDA, preprocesamiento y modelado):
+* **[TP1 — Clasificación, Regresión y Clustering](https://github.com/tomashevia27/cdd-tp1):** Limpieza, imputación (MICE/Hot Deck) y entrenamiento con Scikit-Learn sobre datasets reales (clima, Airbnb, Spotify). Evaluación con F1/ROC-AUC/R².
+* **[TP2 — Análisis de Sentimiento (NLP)](https://github.com/tomashevia27/cdd-tp2):** Clasificación binaria para competencia de Kaggle. Uso de XGBoost, Red Neuronal (Keras) y un ensamble CNN-BiLSTM + FastText con bagging (F1 0.868).
+
+#### 🎮 [DuckGame Recreation - Juego Multijugador (C++)](https://duckgame-recreation.vercel.app/)
+Arquitectura cliente-servidor con servidor multihilo y menú interactivo. Foco en sistemas concurrentes y patrones de diseño.
+* **Stack:** C++, framework Qt.
+* 🔗 [Repositorio](https://github.com/tomashevia27/duckgame-recreation) | 🔗 [Web](https://duckgame-recreation.vercel.app/)
+
+---
+
+### 💻 Tech Stack
+
+**Lenguajes Core:**<br>
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
+**Data Science & Machine Learning:**<br>
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+
+**Web, Backend & Bases de Datos:**<br>
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=tomashevia27&theme=rose_pine&hide_border=true&include_all_commits=true&count_private=true" width="48%">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=tomashevia27&theme=rose_pine&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="48%">
+</div>
