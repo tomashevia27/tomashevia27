@@ -31,7 +31,7 @@ Proyectos de Ciencia de Datos de ciclo completo (EDA, preprocesamiento y modelad
 #### 🎮 [DuckGame Recreation - Juego Multijugador (C++)](https://duckgame-recreation.vercel.app/)
 Arquitectura cliente-servidor con servidor multihilo y menú interactivo. Foco en sistemas concurrentes y patrones de diseño.
 * **Stack:** C++, framework Qt.
-* 🔗 [Repositorio](https://github.com/tomashevia27/duckgame-recreation) | 🔗 [Web](https://duckgame-recreation.vercel.app/)
+* 🔗 [Repositorio](https://github.com/Vityyy/duckgame-recreation) | 🔗 [Web](https://duckgame-recreation.vercel.app/)
 
 ---
 
