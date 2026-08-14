@@ -11,8 +11,13 @@ App full-stack en equipo de 6 personas para conectar dueños de canchas con juga
 🔗 [Repo](https://github.com/tomashevia27/TP_GDSI_GRUPO_01) · 🔗 [Demo en vivo](https://partidoya.vercel.app/)
 
 ### 📊 Análisis y Modelado Predictivo (ML)
-Limpieza, feature engineering y entrenamiento de modelos de clustering/clasificación/regresión con Scikit-Learn.
-🔗 [Repo / Notebook](link)
+Proyectos de Ciencia de Datos de ciclo completo: EDA, preprocesamiento, feature engineering y modelado.
+**TP1 — Clasificación, Regresión y Clustering**
+Limpieza, imputación de datos (MICE/Hot Deck), feature engineering y entrenamiento de modelos con Scikit-Learn sobre datasets reales (clima Australia, Airbnb Madrid, Spotify), incluyendo PCA y evaluación con F1/ROC-AUC/R².
+🔗 [Repo](https://github.com/tomashevia27/cdd-tp1)
+**TP2 — Análisis de Sentimiento de Críticas de Cine (NLP)**
+Competencia de Kaggle: clasificación binaria de críticas en español con Naïve Bayes, Random Forest, XGBoost, Red Neuronal (TensorFlow/Keras) y un ensamble CNN-BiLSTM + FastText con bagging (F1 0.868 · Kaggle 0.783).
+🔗 [Repo](https://github.com/tomashevia27/cdd-tp2)
 
 ### 🎮 DuckGame Recreation - Juego Multijugador (C++)
 Arquitectura cliente-servidor con servidor multihilo y menú interactivo en Qt. Foco en sistemas concurrentes y patrones de diseño.
